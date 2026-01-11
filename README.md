@@ -1,6 +1,6 @@
 # 🍃 KataraLM
 
-**KataraLM** es un ecosistema completo para la gestión ambiental y asistencia inteligente, integrado por una aplicación móvil, una webapp moderna y un backend robusto potenciado por IA.
+**KataraLM** es un [ecosistema completo](https://katara.pages.dev/) para la gestión ambiental y asistencia inteligente, integrado por una aplicación móvil, una webapp moderna y un backend robusto potenciado por IA.
 
 ![Katara Banner](webapp/KataraLM_banner.png)
 
@@ -51,6 +51,13 @@ Para poner en marcha el proyecto localmente:
 
 ## 📄 Licencia y Créditos
 
-Este proyecto utiliza tecnologías open source. Revisa los archivos `LICENSE` (si aplica) y los términos de uso en la webapp.
+Este proyecto utiliza tecnologías open source. Revisa los términos de uso en la webapp.
 
-Hecho con ❤️ para un futuro más verde.
+No dudes en usar la [app](https://apkpure.com/p/online.wiccagirl.kataralm) o visitar la [web](https://katara.pages.dev/)
+
+Hecho con ❤️ para un futuro más verde. 
+
+el mago
+
+Wicca Inc.
+
