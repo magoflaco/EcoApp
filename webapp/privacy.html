@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidad — KataraLM</title>
+  <meta name="description" content="Política de privacidad de KataraLM." />
+  <style>
+    :root{
+      --bg:#f2f8fc;
+      --card:#ffffff;
+      --navy:#1E2A5A;
+      --text:#0f172a;
+      --muted:#475569;
+      --line:#e2e8f0;
+      --accent:#2563eb;
+      --good:#16a34a;
+      --warn:#ea580c;
+      --radius:18px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;background:var(--bg);color:var(--text);}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:980px;margin:0 auto;padding:18px}
+    .hero{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:0 10px 35px rgba(2,6,23,.08)}
+    .banner{width:100%;display:block;aspect-ratio: 16/4;object-fit:cover;background:var(--navy)}
+    .head{display:flex;gap:14px;align-items:center;padding:16px 16px 8px}
+    .logo{width:52px;height:52px;border-radius:14px;border:1px solid rgba(2,6,23,.12);object-fit:cover;background:#fff}
+    .title h1{margin:0;font-size:20px;line-height:1.2;color:var(--navy)}
+    .title p{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .content{padding:10px 16px 18px}
+    .meta{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 0;color:var(--muted);font-size:12px}
+    .pill{border:1px solid var(--line);border-radius:999px;padding:6px 10px;background:#fff}
+    .section{margin-top:18px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px}
+    .section h2{margin:0 0 8px;font-size:16px;color:var(--navy)}
+    .section h3{margin:14px 0 8px;font-size:14px;color:var(--navy)}
+    .section p, .section li{color:#1f2937;font-size:13.5px;line-height:1.7}
+    .section ul{margin:8px 0 0;padding-left:18px}
+    .note{border-left:4px solid var(--warn);background:#fff7ed;border:1px solid #fed7aa;padding:10px 12px;border-radius:14px;margin-top:10px}
+    .ok{border-left:4px solid var(--good);background:#f0fdf4;border:1px solid #bbf7d0;padding:10px 12px;border-radius:14px;margin-top:10px}
+    footer{margin:18px 0 28px;color:var(--muted);font-size:12px;text-align:center}
+    .btnrow{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+    .btn{display:inline-block;background:var(--navy);color:#fff;padding:10px 12px;border-radius:12px;font-weight:700;font-size:13px}
+    .btn.secondary{background:#fff;color:var(--navy);border:1px solid var(--line)}
+    table{width:100%;border-collapse:separate;border-spacing:0;margin-top:10px;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+    th,td{font-size:13px;line-height:1.5;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+    th{background:#f8fafc;color:var(--navy);text-align:left}
+    tr:last-child td{border-bottom:none}
+    @media (min-width: 860px){
+      .content{padding:12px 22px 22px}
+      .head{padding:18px 22px 10px}
+      .title h1{font-size:22px}
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <img class="banner" src="./assets/KataraLM_banner.png" alt="KataraLM" />
+      <div class="head">
+        <img class="logo" src="./assets/KataraLM_logo.png" alt="KataraLM Logo" />
+        <div class="title">
+          <h1>Política de Privacidad</h1>
+          <p>KataraLM — Compromiso con tu información y transparencia</p>
+          <div class="meta">
+            <span class="pill"><b>Última actualización:</b> <span id="lastUpdated">2026-01-10</span></span>
+            <span class="pill"><b>Operador:</b> Wicca Inc.</span>
+            <span class="pill"><b>Ámbito:</b> Guayaquil, Ecuador</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="ok">
+          <b>Resumen:</b> Recopilamos la información mínima para operar KataraLM: cuenta (correo, username, contraseña hash), perfil (bio, foto),
+          mensajes/chat e imágenes que envías, y ubicación si tú la autorizas. No vendemos tu información.
+        </div>
+
+        <div class="section" id="intro">
+          <h2>1. Introducción</h2>
+          <p>
+            Esta Política de Privacidad explica cómo Wicca Inc. (“Operador”) recopila, usa, almacena y protege la información personal
+            cuando utilizas KataraLM (la “Plataforma”). Al usar la Plataforma, aceptas las prácticas descritas aquí.
+          </p>
+          <p>
+            Si tienes preguntas, contáctanos en: <a href="mailto:gchaviano@itb.edu.ec">gchaviano@itb.edu.ec</a>.
+          </p>
+          <div class="note">
+            <b>Nota legal:</b> Este documento es una guía de transparencia y buenas prácticas. Puede complementarse con requisitos regulatorios locales
+            aplicables en Ecuador y con acuerdos adicionales si se integra con instituciones o programas municipales.
+          </div>
+        </div>
+
+        <div class="section" id="datos">
+          <h2>2. Información que recopilamos</h2>
+          <p>La Plataforma puede recopilar y almacenar:</p>
+          <table>
+            <tr>
+              <th>Tipo de dato</th>
+              <th>Ejemplos</th>
+              <th>Para qué se usa</th>
+            </tr>
+            <tr>
+              <td><b>Datos de cuenta</b></td>
+              <td>Correo, username, contraseña (hash), estado de verificación</td>
+              <td>Crear tu cuenta, autenticarte, seguridad, recuperación</td>
+            </tr>
+            <tr>
+              <td><b>Perfil</b></td>
+              <td>Biografía, foto de perfil</td>
+              <td>Personalización y experiencia de usuario</td>
+            </tr>
+            <tr>
+              <td><b>Contenido de uso</b></td>
+              <td>Mensajes del chat, imágenes enviadas, historial</td>
+              <td>Responder como “Katara”, mantener contexto y continuidad</td>
+            </tr>
+            <tr>
+              <td><b>Ubicación (opcional)</b></td>
+              <td>Coordenadas aproximadas (si autorizas)</td>
+              <td>Recomendar puntos cercanos y rutas</td>
+            </tr>
+            <tr>
+              <td><b>Datos técnicos</b></td>
+              <td>Logs mínimos (errores, tiempos), IP (por infraestructura)</td>
+              <td>Seguridad, diagnóstico, prevenir abuso</td>
+            </tr>
+          </table>
+          <p>
+            No solicitamos datos bancarios ni información sensible para operar el servicio básico.
+            Recomendamos que no compartas información personal sensible en el chat.
+          </p>
+        </div>
+
+        <div class="section" id="uso">
+          <h2>3. Cómo usamos tu información</h2>
+          <ul>
+            <li><b>Operación del servicio:</b> autenticar usuarios, guardar historial y mostrar imágenes.</li>
+            <li><b>Calidad y seguridad:</b> prevenir fraude, abuso, y resolver fallos técnicos.</li>
+            <li><b>Atención al usuario:</b> responder solicitudes de contacto o soporte.</li>
+            <li><b>Funcionalidades de ubicación:</b> si habilitas ubicación, sugerir puntos y rutas.</li>
+          </ul>
+          <div class="note">
+            <b>IA:</b> la Plataforma puede procesar tu texto e imágenes para generar respuestas. Si no deseas enviar imágenes, puedes usar solo texto.
+          </div>
+        </div>
+
+        <div class="section" id="base-legal">
+          <h2>4. Base de tratamiento y consentimiento</h2>
+          <p>
+            Procesamos datos con base en: (a) ejecución del servicio solicitado (crear cuenta y usar chat),
+            (b) consentimiento (p. ej. ubicación, foto de perfil), (c) interés legítimo en seguridad y prevención de abuso,
+            y (d) cumplimiento de obligaciones legales cuando aplique.
+          </p>
+          <p>
+            Puedes retirar tu consentimiento para funciones opcionales desactivándolas en tu dispositivo o ajustando tu perfil.
+          </p>
+        </div>
+
+        <div class="section" id="terceros">
+          <h2>5. Proveedores y terceros</h2>
+          <p>
+            Para operar KataraLM podemos usar proveedores (por ejemplo, para correo, infraestructura, IA, mapas/tiles). Estos proveedores procesan
+            datos según instrucciones del Operador, y pueden tener sus propias políticas.
+          </p>
+          <ul>
+            <li><b>Correo/OTP:</b> envío de códigos y notificaciones.</li>
+            <li><b>Infraestructura/CDN:</b> hosting y entrega del frontend.</li>
+            <li><b>IA:</b> generación de respuesta y análisis de imágenes.</li>
+            <li><b>Mapas/Geocoding:</b> mostrar mapa/tiles y ubicar puntos.</li>
+          </ul>
+          <p>
+            No vendemos tus datos. Solo compartimos lo necesario para brindar la funcionalidad.
+          </p>
+        </div>
+
+        <div class="section" id="retencion">
+          <h2>6. Retención y almacenamiento</h2>
+          <p>
+            Guardamos tus datos el tiempo necesario para operar el servicio y cumplir obligaciones.
+            En términos generales:
+          </p>
+          <ul>
+            <li><b>Cuenta y perfil:</b> mientras mantengas tu cuenta activa.</li>
+            <li><b>Chats e imágenes:</b> para mantener historial y contexto, mientras tu cuenta exista (salvo solicitud de eliminación).</li>
+            <li><b>OTPs:</b> se eliminan o expiran en minutos.</li>
+            <li><b>Logs técnicos:</b> se conservan el mínimo necesario para seguridad/diagnóstico.</li>
+          </ul>
+        </div>
+
+        <div class="section" id="seguridad">
+          <h2>7. Seguridad</h2>
+          <p>
+            Implementamos medidas razonables para proteger tu información:
+          </p>
+          <ul>
+            <li>Contraseñas almacenadas como <b>hash</b> (no texto plano).</li>
+            <li>Tokens de sesión con expiración.</li>
+            <li>OTP con expiración y límites de intentos.</li>
+            <li>Validación y límites de tamaño de archivos.</li>
+          </ul>
+          <div class="note">
+            Ningún sistema es 100% invulnerable. Si detectas actividad sospechosa, repórtalo de inmediato.
+          </div>
+        </div>
+
+        <div class="section" id="derechos">
+          <h2>8. Tus derechos y controles</h2>
+          <p>
+            Dependiendo de la normativa aplicable, puedes solicitar:
+          </p>
+          <ul>
+            <li>Acceso a tu información.</li>
+            <li>Corrección/actualización de datos (por ejemplo username, bio, email).</li>
+            <li>Eliminación de cuenta y/o datos (cuando sea aplicable).</li>
+            <li>Restricción u oposición a ciertos tratamientos (en escenarios específicos).</li>
+          </ul>
+          <p>
+            Para solicitudes, escribe a <a href="mailto:gchaviano@itb.edu.ec">gchaviano@itb.edu.ec</a>.
+          </p>
+        </div>
+
+        <div class="section" id="cookies">
+          <h2>9. Cookies y almacenamiento local</h2>
+          <p>
+            El frontend puede usar <b>almacenamiento local del navegador</b> para mantener sesión (por ejemplo tokens) y preferencias.
+            No utilizamos cookies publicitarias por defecto. Puedes borrar almacenamiento local desde tu navegador.
+          </p>
+        </div>
+
+        <div class="section" id="menores">
+          <h2>10. Menores de edad</h2>
+          <p>
+            KataraLM no está diseñado para recopilar deliberadamente información de menores sin supervisión.
+            Si eres menor, usa el servicio con consentimiento y guía de un representante legal.
+          </p>
+        </div>
+
+        <div class="section" id="cambios">
+          <h2>11. Cambios a esta política</h2>
+          <p>
+            Podemos actualizar esta Política de Privacidad por mejoras, cambios legales o de seguridad. Publicaremos la fecha de actualización.
+            El uso continuado implica aceptación de la versión vigente.
+          </p>
+        </div>
+
+        <div class="section" id="contacto">
+          <h2>12. Contacto</h2>
+          <ul>
+            <li>Email: <a href="mailto:gchaviano@itb.edu.ec">gchaviano@itb.edu.ec</a></li>
+            <li>WhatsApp: <a href="https://wa.me/593983941273?text=Hola,%20estoy%20usando%20KataraLM" target="_blank" rel="noopener">Abrir chat</a></li>
+          </ul>
+
+          <div class="btnrow">
+            <a class="btn" href="./terms.html">Ver Términos y Condiciones</a>
+            <a class="btn secondary" href="./index.html">Volver al inicio</a>
+          </div>
+        </div>
+
+        <footer>
+          © <span id="year"></span> Wicca Inc. — KataraLM
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

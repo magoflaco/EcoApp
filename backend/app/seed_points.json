@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Sur",
+    "address": "Av. Raúl Clemente Huerta Mz. 38. Solar 1, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Isla Trinitaria",
+    "address": "Coop. Nuevo Ecuador III Mz. 709. Solar 12, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Batallón del Suburbio",
+    "address": "Calle 40 entre la I y la J, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Bahía (Centro)",
+    "address": "Calixto Romero y Cacique Álvarez, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Hospital Universitario",
+    "address": "Coop. Paraíso de la Flor, Bloque 7, Mz. 339. Solar 1, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Norte",
+    "address": "Bastión Popular, Bloque 5, Mz. 310, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Mucho Lote 2 - Macro Lote 1",
+    "address": "Mucho Lote 2, Macro Lote 1, Autopista Villa España 2, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Mucho Lote 2 - Macro Lote 2-3-8-9",
+    "address": "Mucho Lote 2, Macro Lote 2-3-8-9, Autopista Villa España 2, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Mucho Lote 2 - Macro Lote 4-5-6-7",
+    "address": "Mucho Lote 2, Macro Lote 4-5-6-7, Autopista Villa España 2, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Mapasingue",
+    "address": "Coop. Mapasingue Oeste, Mz. 13C. Solar 11, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "La Playita (Guasmo Sur)",
+    "address": "Guasmo Sur, Pre Coop. San Filipo II, Paseo 58 SE y Av. 12 SE, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Bastión",
+    "address": "Bastión Popular, Bloque 10C, Mz. 1248. Solar 1, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Ecuasal",
+    "address": "Lotización Los Ranchos, Mz. 73. Solar 1, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  },
+  {
+    "name": "Tenguel",
+    "address": "Parroquia Rural Tenguel, Coop. 7 de Septiembre, Guayaquil.",
+    "lat": null,
+    "lon": null,
+    "category": "centro_acopio",
+    "notes": "Centro de acopio municipal (gratuito). Horario referencial: 07:00–21:00.",
+    "source_url": "https://www.revistazonalibre.ec/wp-content/uploads/2025/02/UEVAS.jpg"
+  }
+]
