@@ -1,0 +1,8 @@
+<resources>
+    <color name="katara_navy">#1E2A5A</color>
+    <color name="katara_gold">#F4C430</color>
+    <color name="katara_sky">#5BC0EB</color>
+    <color name="katara_background">#F8FAFC</color>
+    <color name="katara_dark">#0F172A</color>
+    <color name="katara_gray">#64748B</color>
+</resources>
