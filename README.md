@@ -57,7 +57,8 @@ No dudes en usar la [app](https://apkpure.com/p/online.wiccagirl.kataralm) o vis
 
 Hecho con ❤️ para un futuro más verde. 
 
-el mago
+**el mago**
 
-Wicca Inc.
+**Wicca Inc.**
+
 
